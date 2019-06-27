@@ -1,0 +1,1 @@
+awk 'BEGIN{srand(systime()); printf("%.8f      %.8f        \n", (rand() - 0.5) / 1600 + %LATCEN, (rand() - 0.5) / 1600 - %LONCEN)}' > /sdcard/Android/data/com.nianticlabs.pokemongo/files/location

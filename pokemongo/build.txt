@@ -1,0 +1,4 @@
+apktool d app.apk
+modify
+apktool b app -o app_patched.apk
+jarsigner -sigalg SHA1withRSA -digestalg SHA1 -keystore pogom.keystore app_patched.apk pogomk
