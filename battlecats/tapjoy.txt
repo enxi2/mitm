@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TapjoyConnectReturnObject>
+  <UserAccountObject>
+    <TapPoints>9000000</TapPoints>
+    <CurrencyName>Cat Food</CurrencyName>
+    <PointsID>2a7fd3b64b6f8c4ae5b19fb4beebc1f2d30852a8ad1387e834521c4006544f9e</PointsID>
+  </UserAccountObject>
+  <Success>true</Success>
+</TapjoyConnectReturnObject>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<TapjoyConnectReturnObject>
+  <UserAccountObject>
+    <TapPoints>0</TapPoints>
+    <CurrencyName>Cat Food</CurrencyName>
+    <PointsID>2a7fd3b64b6f8c4ae5b19fb4beebc1f2d30852a8ad1387e834521c4006544f9e</PointsID>
+  </UserAccountObject>
+  <Success>true</Success>
+</TapjoyConnectReturnObject>

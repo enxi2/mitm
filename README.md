@@ -1,5 +1,5 @@
 # mitm
 
-Dump of mitm scripts.
+Dump of mitm scripts and other goodies.
 
 No guarantees.
